@@ -18,7 +18,7 @@ Options:
   --output, -o     Output folder                                        [string]
   --save, -s       Save settings to config file     [boolean] [default: "false"]
 "false"]
-  --generator, -g  Generate to 'js' or 'graphq'                 [string]
+  --generator, -g  Generate to 'js' or 'graphql'                 [string]
   --verbose        Show verbose output messages     [boolean] [default: "false"]
   -h, --help       Show help                                           [boolean]
   -v, --version    Show version number                                 [boolean]
