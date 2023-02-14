@@ -34,7 +34,7 @@ const command: {
     // },
     generator: {
       alias: 'g',
-      describe: "Generate to 'js' or 'graphq'",
+      describe: "Generate to 'js' or 'graphql'",
       type: 'string'
     },
     verbose: {
